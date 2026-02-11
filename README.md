@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gefercan2
 - 👀 I’m interested in art and design
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning basic java script
 
 
 <!---
